@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenerateWordFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d493a3a5ef839d4645361132c8ecec1bd2ca5ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenerateWordFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenerateWordFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/wwwroot/Templates/GeneratedPersonInfo (2).docx",
+      "PackagePath": "staticwebassets/Templates/GeneratedPersonInfo (2).docx"
+    },
+    {
       "Id": "/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/wwwroot/Templates/PersonInfo.docx",
       "PackagePath": "staticwebassets/Templates/PersonInfo.docx"
     },

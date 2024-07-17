@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PsSl+id11J2iaQfr/Td8LK4qizWpCLxVhibtdI0qWfw=",
+  "Hash": "eN0tJyqcPnVJIpOUqjqjDxX+h/STCs47VCA0Tmpy3Zo=",
   "Source": "GenerateWordFile",
   "BasePath": "_content/GenerateWordFile",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/wwwroot/Templates/GeneratedPersonInfo (2).docx",
+      "SourceId": "GenerateWordFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/wwwroot/",
+      "BasePath": "_content/GenerateWordFile",
+      "RelativePath": "Templates/GeneratedPersonInfo (2).docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Templates/GeneratedPersonInfo (2).docx"
+    },
     {
       "Identity": "/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/wwwroot/Templates/PersonInfo.docx",
       "SourceId": "GenerateWordFile",

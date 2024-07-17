@@ -71,3 +71,4 @@
 /Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/obj/Debug/net6.0/GenerateWordFile.genruntimeconfig.cache
 /Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/obj/Debug/net6.0/ref/GenerateWordFile.dll
 /Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/bin/Debug/net6.0/AutoMapper.dll
+/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/obj/Debug/net6.0/GenerateWordFile.sourcelink.json

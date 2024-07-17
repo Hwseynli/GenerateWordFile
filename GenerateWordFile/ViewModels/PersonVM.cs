@@ -24,9 +24,7 @@ public class PersonVM
 
     [Required,EmailAddress]
     public string Email { get; set; }
-
     public string FinCode { get; set; }
-
     public string CardNumber { get; set; }
 
     public static ValidationResult ValidateBirthdate(DateTime birthdate, ValidationContext context)
