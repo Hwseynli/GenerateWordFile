@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "PsSl+id11J2iaQfr/Td8LK4qizWpCLxVhibtdI0qWfw=",
+  "Source": "GenerateWordFile",
+  "BasePath": "_content/GenerateWordFile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GenerateWordFile/wwwroot",
+      "Source": "GenerateWordFile",
+      "ContentRoot": "/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/wwwroot/",
+      "BasePath": "_content/GenerateWordFile",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/wwwroot/Templates/PersonInfo.docx",
+      "SourceId": "GenerateWordFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/zeyneb/Projects/GenerateWordFile/GenerateWordFile/wwwroot/",
+      "BasePath": "_content/GenerateWordFile",
+      "RelativePath": "Templates/PersonInfo.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Templates/PersonInfo.docx"
+    }
+  ]
+}

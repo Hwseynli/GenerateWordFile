@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{AED58E96-CD32-4A2F-9499-9C917DD9E309}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenerateWordFile/Controllers/PeopleController.cs">
+    <Files>
+      <File FileName="GenerateWordFile/Controllers/PeopleController.cs" Line="72" Column="1" />
+      <File FileName="GenerateWordFile/Services/PersonService.cs" Line="11" Column="16" />
+      <File FileName="GenerateWordFile/Helpers/ValidationHelper.cs" Line="1" Column="1" />
+      <File FileName="GenerateWordFile/ViewModels/PersonVM.cs" Line="7" Column="1" />
+      <File FileName="GenerateWordFile/ViewModels/PersonUpdateVM.cs" Line="6" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenerateWordFile" expanded="True">
+            <Node name="GenerateWordFile" expanded="True">
+              <Node name="wwwroot">
+                <Node name="Uploads" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.GenerateWordFile PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
